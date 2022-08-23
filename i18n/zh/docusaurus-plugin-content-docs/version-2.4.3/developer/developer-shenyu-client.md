@@ -12,7 +12,7 @@ description: 多语言http客户端
 ## 自定义开发
 
 * 请求方式：`POST`
-* 请求路径：`http://shenyu-admin/shenyu-client/springmvc-register` ，  其中 `shenyu-admin` 表示为 `admin` 后台管理系统的 `ip + port` 。
+* 请求路径：`http://shenyu-admin/shenyu-client/register-uri` ，  其中 `shenyu-admin` 表示为 `admin` 后台管理系统的 `ip + port` 。
 
 
 * 请求参数：`Apache ShenYu`网关默认的需要参数，通过`body`里面传入，`json`类型。
